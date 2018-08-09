@@ -1,0 +1,11 @@
+Title,Genres,Release Year,Budget ($MM),Revenue ($MM),MovieLens Rating,Popularity,TMDB Rating
+The Dark Knight,"['Action', 'Crime', 'Drama', 'IMAX']",2008, 185 ," 1,005 ",4.2,28.9,8.4
+Inception,"['Action', 'Crime', 'Drama', 'Mystery', 'Sci-Fi', 'Thriller', 'IMAX']",2010, 160 , 826 ,4.2,32.8,8.2
+WALLÂE ,"['Adventure', 'Animation', 'Children', 'Romance', 'Sci-Fi']",2008, 180 , 521 ,4.0,29.3,7.9
+Up,"['Adventure', 'Animation', 'Children', 'Drama']",2009, 175 , 735 ,4.0,22.3,7.8
+Django Unchained,"['Action', 'Drama', 'Western']",2012, 100 , 425 ,4.0,18.1,7.9
+The King's Speech,['Drama'],2010, 15 , 414 ,4.0,14.7,7.7
+Moon,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']",2009, 5 , 10 ,4.0,12.2,7.6
+Inglourious Basterds,"['Action', 'Drama', 'War']",2009, 70 , 319 ,4.0,15.1,8.0
+Toy Story 3,"['Adventure', 'Animation', 'Children', 'Comedy', 'Fantasy', 'IMAX']",2010, 200 ," 1,067 ",4.0,17.2,7.7
+How to Train Your Dragon,"['Adventure', 'Animation', 'Children', 'Fantasy', 'IMAX']",2010, 165 , 495 ,4.0,19.0,7.6
